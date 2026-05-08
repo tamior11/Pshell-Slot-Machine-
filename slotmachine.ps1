@@ -162,7 +162,6 @@ function Score-Grid {
 }
 
 function Start-SlotMachine {
-    Write-Host "Emoji Slot Machine — 3 rows x 5 columns"
     Write-Host "Controls: Enter = spin, Q = quit`n"
 
     while ($true) {
